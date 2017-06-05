@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Mis Paginas</title>
+    <link>https://www.instant-gaming.com/es/</link>
+    <description>Sitio donde tener facil acceso a las webs mas usadas.</description>
+    <language>es</language>
+    <managingEditor>mispaginas@gmail.com</managingEditor>
+    <webMaster>mispaginas@gmail.com</webMaster>
+    <copyright>https://www.instant-gaming.com/es/</copyright>
+    <image>
+      <title>Mis Paginas</title>
+      <link>https://www.instant-gaming.com/es/</link>
+      <url>http://img4.wikia.nocookie.net/__cb20161113005434/fairytailfanon/images/thumb/0/0d/University-of-Santa-Catarina-logo-582536_%281%29.jpg/130px-98%2C495%2C0%2C350-University-of-Santa-Catarina-logo-582536_%281%29.jpg</url>
+    </image>
+    <item>
+      <title>Foro</title>
+      <pubDate>Mon, 5 Jun 2017 12:02:39 +0200</pubDate>
+      <link>http://www.3djuegos.com</link>
+      <comments>http://www.3djuegos.com</comments>
+      <category>Foro</category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Series</title>
+      <pubDate>Mon, 5 Jun 2017 11:54:57 +0200</pubDate>
+      <link>http://jkanime.net</link>
+      <comments>http://jkanime.net</comments>
+      <category>Series</category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Clase</title>
+      <pubDate>Mon, 5 Jun 2017 11:54:19 +0200</pubDate>
+      <link>http://moodle.fesac.es/my/</link>
+      <comments>http://moodle.fesac.es/my/</comments>
+      <category>clase</category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Videos</title>
+      <pubDate>Mon, 5 Jun 2017 11:53:30 +0200</pubDate>
+      <link>https://www.youtube.com/?gl=IN&amp;hl=en-GB</link>
+      <comments>https://www.youtube.com/?gl=IN&amp;hl=en-GB</comments>
+      <category>videos</category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>juegos</title>
+      <pubDate>Mon, 5 Jun 2017 11:46:19 +0200</pubDate>
+      <link>https://www.instant-gaming.com/es/</link>
+      <comments>https://www.instant-gaming.com/es/</comments>
+      <category>game</category>
+      <description><![CDATA[Web de compra de juegos]]></description>
+    </item>
+  </channel>
+</rss>
